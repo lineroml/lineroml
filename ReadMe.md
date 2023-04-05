@@ -1,5 +1,5 @@
 # 💫 About Me:
-👑 Software Engineer, almost (months to finish)<br>🔭 I’m currently working on my degree project and portfolio<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning 3D design, gsap and ThreeJS<br>⚡ Fun fact: ilovecats
+👑 Software Engineer, almost (months to finish)<br>🔭 I’m currently working on my degree project and portfolio<br>🤝 I’m looking for help with frontend development, Blender and 3D in general <br>🌱 I’m currently learning 3D design, gsap and ThreeJS<br>⚡ Fun fact: ilovecats
 
 
 ## 🌐 Socials:
